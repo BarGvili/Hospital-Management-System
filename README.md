@@ -3,6 +3,10 @@
 ## Overview
 This project is a **Hospital Management System** implemented in C++ using **Object-Oriented Programming (OOP)** principles. It allows managing hospital departments, employees (doctors and nurses), patients, and research centers.
 
+<img src="https://github.com/user-attachments/assets/8e3bf0c7-9c3b-41f2-b0ed-8214c0fac770" width="500">
+
+
+
 ## Features
 - **Department Management:** Add, remove, and list hospital departments.
 - **Staff Management:** Add doctors and nurses, associate them with departments.
@@ -57,14 +61,4 @@ After compiling, execute:
 4. Search for a patient by ID.
 5. View all hospital employees.
 
-## Future Improvements
-- **File Handling:** Save and load hospital data from files.
-- **GUI Interface:** Implement a graphical interface.
-- **Database Integration:** Store patient and staff data in a SQL database.
-
-## Author
-**[Your Name]** - Developed as part of a university project.
-
-## License
-This project is released under the MIT License.
 
